@@ -14,13 +14,13 @@ In this project I used the library instaloader to get instagram data.
 ## Certified:
 - [Coursera - Natural Language Processing](https://coursera.org/share/f6c58105d35908c7bbd5376f25554ed7)
 
-[Natural Language Processing with Classification and Vector Spaces]()
+[Natural Language Processing with Classification and Vector Spaces](https://github.com/gomesgui06/Coursera-NLP/tree/master/Curso%2001%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
 
-[Natural Language Processing with Probabilistic Models]()
+[Natural Language Processing with Probabilistic Models](https://github.com/gomesgui06/Coursera-NLP/tree/master/Curso%2002%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models)
 
-[Natural Language Processing with Sequence Models]()
+[Natural Language Processing with Sequence Models](https://github.com/gomesgui06/Coursera-NLP/tree/master/Curso%2003%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models)
 
-[Natural Language Processing with Attention Models]()
+[Natural Language Processing with Attention Models](https://github.com/gomesgui06/Coursera-NLP/tree/master/Curso%2004%20-%20Natural%20Language%20Processing%20with%20Attention%20Models)
 
 
 ## Contacts
