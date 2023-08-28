@@ -1,5 +1,5 @@
 ## Hi every one! 👋
-#### I'm Guilherme Gomes, I'm from Brazil!. I'm graduated in computer engineering and work as a data scientist.
+#### I'm Guilherme Gomes, I'm from Brazil!. I'm graduated in computer engineering and work as a data analyst.
 
 ## Projects:
 
